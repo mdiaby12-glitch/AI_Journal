@@ -1,1 +1,11 @@
+AI Usage Journal
+Mariam Diaby
+mdiaby12@terpmail.umd.edu
+Section 0301
 
+Week 1
+This week, I used AI to show me how to make an AI Journal in GitHub. Here's the code: https://chatgpt.com/c/68c174f8-d480-8320-95b5-794b10fe5176. This was very beneficial as I am a first-time user of GitHub and not familiar with the site at all.
+
+I also used AI for help on the Week 01 Exercises, specifically pasting my code and seeing what I did incorrectly to get feedback on it. Looking at the professor's example, it might be a good idea to ask AI for examples first before putting my code in to see if I can understand it better. Here is my AI chat link: https://chatgpt.com/c/68c180a4-4488-8322-b9c9-449dba001fdb.
+
+Additionally, I also used AI to understand HTML in VS CODE as I was having problems with seeing my site as I code. Here's the link: https://chatgpt.com/c/68c18e45-2bb4-832c-9233-cbe19e59aac4
