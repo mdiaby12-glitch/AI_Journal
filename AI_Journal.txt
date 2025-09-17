@@ -9,3 +9,8 @@ This week, I used AI to show me how to make an AI Journal in GitHub. Here's the 
 I also used AI for help on the Week 01 Exercises, specifically pasting my code and seeing what I did incorrectly to get feedback on it. Looking at the professor's example, it might be a good idea to ask AI for examples first before putting my code in to see if I can understand it better. Here is my AI chat link: https://chatgpt.com/c/68c180a4-4488-8322-b9c9-449dba001fdb.
 
 Additionally, I also used AI to understand HTML in VS CODE as I was having problems with seeing my site as I code. Here's the link: https://chatgpt.com/c/68c18e45-2bb4-832c-9233-cbe19e59aac4
+
+Week 2
+This week, I used AI to show me what I did wrong in some code from Exercise 2, as well as to show me how to do a certain code that I needed help with. Here is the chat: https://chatgpt.com/c/68c9f122-60d4-832b-baa1-3083ecd968fc. This was very helpful in assisting me with Exercise 2, as I was unfamiliar with some codes asked to perform.
+
+I also use AI for an assignment I had that asked what Testudo SOC limitations are that I didn't really know. AI helped me understand the limitations and become familiar with it. Here's the code: https://chatgpt.com/c/68c88966-76b8-832a-b1e7-af7dd7e404a2.
