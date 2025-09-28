@@ -14,3 +14,6 @@ Week 2
 This week, I used AI to show me what I did wrong in some code from Exercise 2, as well as to show me how to do a certain code that I needed help with. Here is the chat: https://chatgpt.com/c/68c9f122-60d4-832b-baa1-3083ecd968fc. This was very helpful in assisting me with Exercise 2, as I was unfamiliar with some codes asked to perform.
 
 I also use AI for an assignment I had that asked what Testudo SOC limitations are that I didn't really know. AI helped me understand the limitations and become familiar with it. Here's the code: https://chatgpt.com/c/68c88966-76b8-832a-b1e7-af7dd7e404a2.
+
+Week 3
+This week, I used AI to figure out how to add an HTML file to GitHub, https://chatgpt.com/c/68d9c7ee-4b3c-832c-8a9a-c6d351333c56. I also used AI to know intership application timelines because I plan to do an internship in the summer https://chatgpt.com/c/68d55e60-7c9c-8332-af80-f8ac6140acc4. I also used AI to find coupons for a website I wanted to purchase items on https://chatgpt.com/c/68d2ac49-56cc-832c-b129-77f7bfd15313.
