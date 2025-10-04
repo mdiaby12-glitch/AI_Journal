@@ -17,3 +17,6 @@ I also use AI for an assignment I had that asked what Testudo SOC limitations ar
 
 Week 3
 This week, I used AI to figure out how to add an HTML file to GitHub, https://chatgpt.com/c/68d9c7ee-4b3c-832c-8a9a-c6d351333c56. I also used AI to know intership application timelines because I plan to do an internship in the summer https://chatgpt.com/c/68d55e60-7c9c-8332-af80-f8ac6140acc4. I also used AI to find coupons for a website I wanted to purchase items on https://chatgpt.com/c/68d2ac49-56cc-832c-b129-77f7bfd15313.
+
+Week 4
+This week, I used AI with assistance in finding a GitHub repo structure; here's the code https://chatgpt.com/c/68deed2e-550c-8321-b914-c110fc76618e. I also used AI for the Week 4 exercises. When my code would come out with an error, I would ask for help; here's the code https://chatgpt.com/c/68e12778-4f2c-8323-a682-83e4a5019c11. Lastly, I used AI with assistance on opening a ticket on Discord; here's the code https://chatgpt.com/c/68e11f92-b264-8327-a8c8-5d99e1d75012.
