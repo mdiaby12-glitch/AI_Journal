@@ -20,3 +20,7 @@ This week, I used AI to figure out how to add an HTML file to GitHub, https://ch
 
 Week 4
 This week, I used AI with assistance in finding a GitHub repo structure; here's the code https://chatgpt.com/c/68deed2e-550c-8321-b914-c110fc76618e. I also used AI for the Week 4 exercises. When my code would come out with an error, I would ask for help; here's the code https://chatgpt.com/c/68e12778-4f2c-8323-a682-83e4a5019c11. Lastly, I used AI with assistance on opening a ticket on Discord; here's the code https://chatgpt.com/c/68e11f92-b264-8327-a8c8-5d99e1d75012.
+
+Week 5 
+This week, I used AI to figure out what was wrong with my code for the coding exercises; here's the chat: https://chatgpt.com/c/68e12778-4f2c-8323-a682-83e4a5019c11. I also used AI to show me how to do one of the exercises step by step because I was unsure of where to start. Here's the chat: https://chatgpt.com/c/68e52537-1b1c-832a-b750-d15620ba97e1. Additionally, I used AI to let me know if my definition of a social media influencer was good. Here's the chat: https://chatgpt.com/c/68e542af-1a90-8331-811e-c5270eb948a2. Lastly, I used AI to help me understand what a term meant in my library management project. Here's the chat: https://chatgpt.com/c/68e6a0ce-2d24-8327-83ee-332dcabbdbe2
+.
