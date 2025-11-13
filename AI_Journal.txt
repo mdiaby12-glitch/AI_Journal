@@ -29,7 +29,7 @@ Week 6
 This week I used AI to help me with a code to move an image to a specific location on a page. Here's the link: https://chatgpt.com/c/68e7cc7f-8ee4-8323-89fc-7c7a5ee4731d. I also used AI to understand how to open a high-yield saving account. Here's the link: https://chatgpt.com/c/68f9065a-b7a8-832e-81f7-d29f31374931. Additionally, I used AI to help me understand what was wrong with my code in an exercise. Here's the link: https://chatgpt.com/c/68fc3080-f3d0-8320-934e-41ef928aeb68. Lastly, I used AI to understand how to read/use API's. Here's the link:https://chatgpt.com/c/68fe4725-2520-832b-b252-5e2cfc7edc3b.
 
 Week 7
-This week, I didn't use AI for anything.
+This week, I didn't use AI much but mainly used it for help on some of the exercises. Here's the chat: https://chatgpt.com/c/691642ce-16dc-8328-9ccf-0c20fc14e47a
 
 Week 8
 This week, I used AI to help with certain problems on the exercises. I was stuck and confused on some, so I went to AI for help on solving it. Here's the link https://chatgpt.com/c/690a18dd-2900-832c-b172-639b2d4bcf8c.
